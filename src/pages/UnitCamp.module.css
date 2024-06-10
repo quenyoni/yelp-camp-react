@@ -1,0 +1,21 @@
+.view{
+   display: grid;
+   gap:4rem;
+   grid-template-columns: 1fr;
+}
+
+.map{
+    position: relative;
+}
+
+
+
+@media (min-width:1200px) {
+    
+    .view{
+        max-height: 100vh;
+        overflow: hidden;
+        grid-template-columns: 1fr 1fr;
+    }
+    
+}

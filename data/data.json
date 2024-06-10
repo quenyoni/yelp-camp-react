@@ -1,0 +1,109 @@
+{
+    "camps":[
+        {
+            "name":"Mount Ulap",
+           "description": "One of the most famous hikes in Begguet is Mt Ulapin, Itogon.",
+           "img":"mtUlap",
+           "coords":[16.2874, 120.6314],
+           
+         
+           "ratePerNight": 104.99,
+           "adminDescription": {
+            "author":"Andrew Mike", 
+            "info": "Mount Ulap is a 7.7 kilometer moderately trafficked point-to-point trail located near Tuba,Benguet,Philliopines that offers the chance to see wildfire and is rated as moderate. The trail is primarily used for hiking. "},
+           "reviews":[
+            {
+            "name": "Adam Jones",
+            "review":"Honestly one of the best experiences ever, took us a while to figure out how to get there but it was amazing!  ",
+            "timeStamp":""
+           },
+            {
+            "name": "Isaac Dylan",
+            "review":"Travelling changes you as a person ,you gain more perspective, this is the perfeect spot to do that. ",
+            "timeStamp":""
+           },
+            {
+            "name": "Hudson Luca",
+            "review":"Definitely recommend going there, not too far and not a lot of people to ruin the experience",
+            "timeStamp":""
+           }
+        ]
+        },
+        {
+            "name":"Calaguas Islands",
+           "description": "An archipelago of islands that rival the white sand beauty of Boracay.",
+           "img":"calaguas",
+           "ratePerNight": 104.99,
+           "adminDescription": "",
+           "reviews":[{
+            "name": "Adam Jones",
+            "review":"Honestly one of the best experiences ever, took us a while to figure out how to get there but it was amazing!  ",
+            "timeStamp":""
+           }]
+        },
+        {
+            "name":"Onay Beach",
+           "description": "This is one of the best beach camping sites ,beeautiful and pristine.",
+           "img":"onay",
+           "ratePerNight": 104.99,
+           "adminDescription": "",
+           "reviews":[{
+            "name": "Adam Jones",
+            "review":"Honestly one of the best experiences ever, took us a while to figure out how to get there but it was amazing!  ",
+            "timeStamp":""
+           }]
+        },
+        {
+            "name":"Seven Sisters Waterfall",
+           "description": "The Seven Sisters is the 39th tallest waterfal in Norway ",
+           "img":"sevenSisters",
+           "ratePerNight": 104.99,
+           "adminDescription": "",
+           "reviews":[{
+            "name": "Adam Jones",
+            "review":"Honestly one of the best experiences ever, took us a while to figure out how to get there but it was amazing!  ",
+            "timeStamp":""
+           }]
+        },
+        {
+            "name":"Latik Riverside",
+           "description": "Phillipnes is one of the most dazzling countries in all of Asia",
+           "img":"latik",
+           "ratePerNight": 104.99,
+           "adminDescription": "",
+           "reviews":[{
+            "name": "Adam Jones",
+            "review":"Honestly one of the best experiences ever, took us a while to figure out how to get there but it was amazing!  ",
+            "timeStamp":""
+           }]
+        },
+        {
+            "name":"Buloy Springs",
+           "description": "This is one of thee best beach camping sites.",
+           "img":"buloy",
+           "ratePerNight": 104.99,
+           "adminDescription": "",
+           "reviews":[{
+            "name": "Adam Jones",
+            "review":"Honestly one of the best experiences ever, took us a while to figure out how to get there but it was amazing!  ",
+            "timeStamp":""
+           }]
+        },
+        {
+            "name":"Big Cave Camp",
+           "description": "Big Cave campsite is an ideal stop over on the way to Hwange, Mana Pools & Great Zimbabwe.",
+         
+           "img":"https://www.bigcavematopos.com/uploads/1/1/7/9/117964666/edited/fire-pit.jpg?1634061284","coords":[-20.5042051,28.4356431],
+           "ratePerNight": 371.00,
+           "adminDescription": {
+            "author":"https://www.bigcavematopos.com",
+            "description": "Big Cave Camp offers a range of campsites for both the 4 x 4 outdoor enthusiast as well as over land truck companies."
+           },
+           "reviews":[],
+           "link": "https://www.bigcavematopos.com/"
+        }
+      
+        
+        
+    ]
+}
